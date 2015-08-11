@@ -23,7 +23,7 @@ I undertook many modules that exercised my skills in problem-solving, such as Co
 
 #### Design
 
-I find the design aspect of an application to be my favourite part, whether it be designing a solution to a complex back end logical dilemma or designing the visual layout on the front end, to the point where I have piles of notebooks full of diagrams on different routes to solving one thing
+I find the design aspect of an application to be my favourite part, whether it be designing a solution to a complex back end logical dilemma or designing the visual layout on the front end, to the point where I have piles of notebooks full of diagrams on different routes to solving problems.
 
 Many moons ago during my school years, I used to write and maintain my own blog on Blogger. I found the templates provided by Blogger at the time not too inspiring so I decided to learn CSS3 to help me keep the style of my blog more up to date, alongside excessive use of Adobe Creative Suite (Photoshop, InDesign and Illustrator) to create backgrounds and buttons to customise it even more.
 
@@ -53,7 +53,7 @@ As a friendly and composed person, I find working with other people enjoyable an
 
 ## Education
 
-#### Makers Academy (27/04/2015 to /07/2015)
+#### Makers Academy (27/04/2015 to 16/07/2015)
 
 - I learnt to use Ruby and Javascript alongside coding methodologies such as pair programming, SOLID, TDD/BDD, OOD and Agile to develop full stack applications both back end and front end
 - I am able to write programs in Ruby, Rails, Javascript, Node.js, Angular.js
